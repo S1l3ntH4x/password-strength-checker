@@ -1,0 +1,7 @@
+# requirements.txt for Password Strength Checker Project
+
+# Python version
+python>=3.6
+
+# No additional packages are required for this project
+# This project uses only built-in Python modules
